@@ -14,6 +14,6 @@ I used technologies:
 - :mailbox:How to reach me:
 <div id="badges">
   <a href="https://t.me/diagmerc">
-    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
