@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
-
 ### :man_technologist: About Me :
 I am a Java Developer
 
