@@ -7,6 +7,7 @@ I used technologies:
     <img src="https://img.shields.io/badge/Spring Security-green?style=for-the-badge&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Data-green?style=for-the-badge&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Test-green?style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=&logoColor=white"/>
     <br>
     and other most popular frameworks
 - :mailbox:How to reach me:
